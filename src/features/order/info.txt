@@ -1,0 +1,18 @@
+Place order
+//will make either 4 execute or none using transaction
+1. Get cart items of user, calculate the total amount.
+2. Create a record for order.
+3. Reduce the stock(products quantity);
+4. Clear the cart.
+
+//for real time application
+5. deduct the payment.
+6. Inform about the order to sellers.
+7. Inform to couries to collection order.
+
+
+1st product price = 90000*2= 180000
+2nd product price = 88000*5 = 440000
+Sum = 440000+ 180000= 626000
+to do above calculation using aggregation pipeline
+
