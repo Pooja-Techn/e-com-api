@@ -1,0 +1,13 @@
+//Product Controller
+Product
+Get Products
+Add Product
+Get one Product
+Rate Product 
+Filter Product
+
+
+//Usercontroller
+Sign up = Email, Name, Password, TypeOfUser(customer, seller)
+Signin = (Email, Password)
+
